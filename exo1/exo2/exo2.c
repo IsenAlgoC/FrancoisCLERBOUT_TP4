@@ -8,7 +8,6 @@ int main() {
 	int myTab1[TAILLETAB1];
 	int nombre = 1;
 	int position = 0;
-	//int MyPtr1 = 19;
 
 	for (nombre = 1; nombre <= 20; nombre++) {
 		myTab1[position] = nombre;
