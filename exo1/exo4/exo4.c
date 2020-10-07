@@ -7,7 +7,7 @@ int main() {
     int taille;
     int moitie;
     bool pareil = true;
-    printf("entrez le mot à tester\n");
+    printf("entrez le mot a tester\n");
     scanf_s("%s", &mot, (unsigned)_countof(mot));
     taille = strlen(mot);
     moitie = (int)(taille / 2);
